@@ -2,8 +2,6 @@
 
 This is where you write an awesome description of your project.  Who, what, why, when, where.
 
-```Replace 'rockstar-repo-template' and 'alaframboise' with your project and username```
-
 [View it live](http://volite.github.com/FieldStatusMapApp/index.html)
 
 ![App](https://raw.github.com/volite/FieldStatusMapApp/master/app.png)
