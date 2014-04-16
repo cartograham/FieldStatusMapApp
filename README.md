@@ -2,11 +2,9 @@
 
 This is where you write an awesome description of your project.  Who, what, why, when, where.
 
-```Replace 'rockstar-repo-template' and 'alaframboise' with your project and username```
+[View it live](http://volite.github.com/FieldStatusMapApp/index.html)
 
-[View it live](http://alaframboise.github.com/rockstar-repo-template/index.html)
-
-![App](https://raw.github.com/alaframboise/rockstar-repo-template/master/app.png)
+![App](https://raw.github.com/volite/FieldStatusMapApp/master/app.png)
 
 ## Features
 * feature 1
@@ -26,7 +24,7 @@ This is where you write an awesome description of your project.  Who, what, why,
 
 * [ArcGIS for JavaScript API Resource Center](http://help.arcgis.com/en/webapi/javascript/arcgis/index.html)
 * [ArcGIS Blog](http://blogs.esri.com/esri/arcgis/)
-* [twitter@esri](http://twitter.com/esri)
+* [twitter@esri](http://twitter.com/jameskgraham)
 
 ## Issues
 
@@ -37,7 +35,7 @@ Find a bug or want to request a new feature?  Please let us know by submitting a
 Anyone and everyone is welcome to contribute. 
 
 ## Licensing
-Copyright 2012 Esri
+Copyright 2014 James K Graham
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
@@ -51,6 +49,6 @@ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
 See the License for the specific language governing permissions and
 limitations under the License.
 
-A copy of the license is available in the repository's [license.txt]( https://raw.github.com/alaframboise/rockstar-repo-template/master/license.txt) file.
+A copy of the license is available in the repository's [license.txt]( https://raw.github.com/volite/FieldStatusMap/master/license.txt) file.
 
 [](This is how you hide something in your README.md)
